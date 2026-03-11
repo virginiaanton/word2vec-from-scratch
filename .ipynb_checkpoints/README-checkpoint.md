@@ -1,4 +1,4 @@
-# Skip-gram-model-from-scratch
+# word2vec-from-scratch
 ## Author: Virginia Antón 
 
 skip-gram model implementation from scratch using NumPy.  
